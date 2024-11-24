@@ -1,2 +1,2 @@
 # CraftOS-
-Extension of CraftOS
+Minecraft datapack extending CraftOS.
